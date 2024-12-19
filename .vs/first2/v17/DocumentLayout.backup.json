@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\C#\\first\\first2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAB26A0-D589-40BE-BF67-999E46716613}|first2\\first2.csproj|d:\\self_study\\c#\\first\\first2\\first2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAB26A0-D589-40BE-BF67-999E46716613}|first2\\first2.csproj|solutionrelative:first2\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAB26A0-D589-40BE-BF67-999E46716613}|first2\\first2.csproj|d:\\self_study\\c#\\first\\first2\\first2\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAB26A0-D589-40BE-BF67-999E46716613}|first2\\first2.csproj|solutionrelative:first2\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAB26A0-D589-40BE-BF67-999E46716613}|first2\\first2.csproj|d:\\self_study\\c#\\first\\first2\\first2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAB26A0-D589-40BE-BF67-999E46716613}|first2\\first2.csproj|solutionrelative:first2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAB26A0-D589-40BE-BF67-999E46716613}|first2\\first2.csproj|d:\\self_study\\c#\\first\\first2\\first2\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAB26A0-D589-40BE-BF67-999E46716613}|first2\\first2.csproj|solutionrelative:first2\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAB26A0-D589-40BE-BF67-999E46716613}|first2\\first2.csproj|d:\\self_study\\c#\\first\\first2\\first2\\dtos\\categorydto\\showcategorydro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAB26A0-D589-40BE-BF67-999E46716613}|first2\\first2.csproj|solutionrelative:first2\\dtos\\categorydto\\showcategorydro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CAB26A0-D589-40BE-BF67-999E46716613}|first2\\first2.csproj|d:\\self_study\\c#\\first\\first2\\first2\\dtos\\categorydto\\addcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CAB26A0-D589-40BE-BF67-999E46716613}|first2\\first2.csproj|solutionrelative:first2\\dtos\\categorydto\\addcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\self_study\\C#\\first\\first2\\first2\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "first2\\Models\\Author.cs",
+              "ToolTip": "D:\\self_study\\C#\\first\\first2\\first2\\Models\\Author.cs",
+              "RelativeToolTip": "first2\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:16:24.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\self_study\\C#\\first\\first2\\first2\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "first2\\Models\\Admin.cs",
+              "ToolTip": "D:\\self_study\\C#\\first\\first2\\first2\\Models\\Admin.cs",
+              "RelativeToolTip": "first2\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:16:16.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowCategoryDRO.cs",
+              "DocumentMoniker": "D:\\self_study\\C#\\first\\first2\\first2\\DTOs\\CategoryDTO\\ShowCategoryDRO.cs",
+              "RelativeDocumentMoniker": "first2\\DTOs\\CategoryDTO\\ShowCategoryDRO.cs",
+              "ToolTip": "D:\\self_study\\C#\\first\\first2\\first2\\DTOs\\CategoryDTO\\ShowCategoryDRO.cs",
+              "RelativeToolTip": "first2\\DTOs\\CategoryDTO\\ShowCategoryDRO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:13:00.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\self_study\\C#\\first\\first2\\first2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "first2\\Models\\Category.cs",
+              "ToolTip": "D:\\self_study\\C#\\first\\first2\\first2\\Models\\Category.cs",
+              "RelativeToolTip": "first2\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:12:48.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddCategoryDTO.cs",
+              "DocumentMoniker": "D:\\self_study\\C#\\first\\first2\\first2\\DTOs\\CategoryDTO\\AddCategoryDTO.cs",
+              "RelativeDocumentMoniker": "first2\\DTOs\\CategoryDTO\\AddCategoryDTO.cs",
+              "ToolTip": "D:\\self_study\\C#\\first\\first2\\first2\\DTOs\\CategoryDTO\\AddCategoryDTO.cs",
+              "RelativeToolTip": "first2\\DTOs\\CategoryDTO\\AddCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:12:22.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\self_study\\C#\\first\\first2\\first2\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "first2\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\self_study\\C#\\first\\first2\\first2\\Controllers\\CategoryController.cs*",
+              "RelativeToolTip": "first2\\Controllers\\CategoryController.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:09:23.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
